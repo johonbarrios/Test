@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074295850240",
+    "project_id": "react-listatodos",
+    "storage_bucket": "react-listatodos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074295850240:android:800daf626cbb5201c21fe5",
+        "android_client_info": {
+          "package_name": "com.jottaflutters.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074295850240-kdkqmso7tpc877gq5orhak7egksuk30p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2iSdeq6XDJNIbHgYStr8HJeoCQaznPB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074295850240-kdkqmso7tpc877gq5orhak7egksuk30p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
